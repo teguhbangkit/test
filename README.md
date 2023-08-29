@@ -1,2 +1,1 @@
-# test
-this is the test repo
+I am editing the README file. Adding some more details about the project description.
